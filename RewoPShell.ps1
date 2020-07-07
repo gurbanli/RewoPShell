@@ -4,7 +4,7 @@ param(
     [string] $HostAddress,
     
     [Parameter (Mandatory=$true)]
-    [string] $DownloadUrl,
+    [string] $DownloadUrl
     
 )
 
