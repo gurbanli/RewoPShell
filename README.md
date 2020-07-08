@@ -1,4 +1,4 @@
-# RewoPShell by Gurbanli
+# RewoPShell
 
 ### Usage:
 
